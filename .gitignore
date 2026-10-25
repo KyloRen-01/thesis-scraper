@@ -1,0 +1,8 @@
+.env
+.venv/
+env/
+__pycache__/
+*.py[cod]
+**/.facebook_chrome_profile/
+**/*cookies*.json*
+Flood-scraper/.hf_cache/

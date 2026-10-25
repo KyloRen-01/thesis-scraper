@@ -1,0 +1,27 @@
+{
+  "image_path": "string: path of the image file",
+  "is_valid_flood_evidence": [true, false],
+  "flood_presence": [true, false, null],
+  "visual_severity": [
+    "no_flood",
+    "minor",
+    "moderate",
+    "major",
+    "not_assessable"
+  ],
+  "post_visual_severity": [
+    "no_flood",
+    "minor",
+    "moderate",
+    "major",
+    "not_assessable"
+  ],
+  "infrastructure_accessibility": [
+    "passable_all_vehicles",
+    "not_passable_light_vehicles",
+    "not_passable_all_vehicles",
+    "no_road_visible",
+    "not_assessable"
+  ],
+  "visual_description": "string: one or two sentences of visible facts, at most 40 words"
+}

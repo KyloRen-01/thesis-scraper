@@ -2,23 +2,22 @@
 
 
 FACEBOOK = {
-    "users": [ #facebook pages
-        "atenews",
+    "users": [
         "BFPRHQ11",
         "civildefensedavao",
-        "DavaoDevUpdates",  
+        "DavaoDevUpdates",
         "davaocitydrmmc",
         "DavaoDRRMO",
         "davaocitydisasterradio",
         "mprsdcdo",
         "NIASNewsChannelPH",
-        "PIADavaoRegion",  
+        "PIADavaoRegion",
         "sunstardavaonews",
         "stormchasersPH",
         "weather.davao",
-        
+        "ABSNewsDavao ",        
     ],
-    "search_queries": [ #hashtags in facebook 
+    "search_queries": [
         "BahaPH",
         "FloodAlert",
         "FloodingPhilippines",
@@ -28,7 +27,6 @@ FACEBOOK = {
         "BahaDavao",
         "FloodDavao",
         "Pagbaha",
-
     ],
 }
 
@@ -72,11 +70,4 @@ PH_LOCATIONS = [
     "samal",
     "mati",
     "digos",
-    "general santos",
-    "gensan",
-    "cagayan de oro",
-    "cebu",
-    "manila",
-    "quezon city",
-    "metro manila",
 ]
